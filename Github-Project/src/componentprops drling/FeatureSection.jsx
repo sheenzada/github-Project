@@ -1,5 +1,5 @@
 import FeatureCard from "./FeatureCard";
-import { featureData } from "../data/featureData";
+// import { featureData } from "./data/featureData";
 import Header from "./Header";
 
 export default function FeatureSection() {

@@ -61,7 +61,7 @@ export default function FeatureSections() {
 
                 
                 <div
-                  className={`absolute inset-0 bg-gradient-to-br ${item.gradient}`}
+                  className={`absolute inset-0 ${item.gradient}`}
                 />
 
                 

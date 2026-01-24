@@ -24,7 +24,7 @@
 
 
 import { FeatureProvider } from "./context/FeatureContext";
-import FeatureSection from "./Drlingovercom/FeatureSection";
+// import FeatureSection from "./Drlingovercom/FeatureSection";
 
 
 import React from 'react'

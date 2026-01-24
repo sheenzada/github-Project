@@ -1,5 +1,5 @@
 import { createContext, useContext } from "react";
-import { featureData } from "../data/featureData";
+// import { featureData } from "../data/featureData";
 
 const FeatureContext = createContext();
 
